@@ -5,4 +5,5 @@ employee1.addBenefits('VR');
 employee1.addBenefits('VA');
 employee1.addBenefits('Zenklub');
 employee1.removeBenefits('VA');
+employee1.removeBenefits('gympass'); // ajeitar isso!!!
 employee1.listBenefits();
